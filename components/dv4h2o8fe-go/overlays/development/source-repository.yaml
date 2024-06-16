@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dv4h2o8fe-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dv4h2o8fe-go
